@@ -1,4 +1,4 @@
-import cv2
+
 import math
 import streamlit as st
 from PIL import Image
